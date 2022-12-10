@@ -13,7 +13,7 @@ add-appxpackage "$PSScriptRoot\Microsoft.AV1VideoExtension_1.1.52851.0_x86__8wek
 Write-Output "HEIFÕºœÒ¿©’π..."
 add-appxpackage "$PSScriptRoot\Microsoft.HEIFImageExtension_1.0.50272.0_x86__8wekyb3d8bbwe.Appx"
 Write-Output "HEVC ”∆µ¿©’π..."
-add-appxpackage "$PSScriptRoot\Microsoft.HEVCVideoExtensions_2.0.52912.0_x86__8wekyb3d8bbwe.Appx"
+add-appxpackage "$PSScriptRoot\Microsoft.HEVCVideoExtensions_2.0.53349.0_x86__8wekyb3d8bbwe.Appx"
 Write-Output "MPEG-2 ”∆µ¿©’π..."
 add-appxpackage "$PSScriptRoot\Microsoft.MPEG2VideoExtension_1.0.50901.0_x86__8wekyb3d8bbwe.Appx"
 Write-Output "RAWÕºœÒ¿©’π..."
